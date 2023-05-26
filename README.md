@@ -12,5 +12,4 @@ Hi i'm Dwiki Pratama also call me Dwiki.  Here is my Portfolio as Data Analyst, 
 * A/B Testing
 
 > Spreadsheet : 
-
-https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing
+[Link](https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing)
