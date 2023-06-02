@@ -1,5 +1,5 @@
 # Data Anlytics Portofolio of Dwiki Pratama
-Hi i'm Dwiki Pratama also call me Dwiki.  Here is my Portfolio as Data Analyst, please check it out!
+Hi i'm Dwiki Pratama also call me Dwiki.  Here is my Portfolio aspiring Data Analyst, please check it out!
 
 ## Business Understanding
 These tools help identify causes, assign accountability, set clear goals, propose hypotheses, and establish relevant metrics for success. By using these tools, businesses can enhance problem-solving and make informed decisions.
