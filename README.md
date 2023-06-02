@@ -1,4 +1,4 @@
-# Data Anlytics Portofolio of Dwiki Pratama
+# Data Analytics Portofolio of Dwiki Pratama
 Hi i'm Dwiki Pratama also call me Dwiki.  Here is my Portfolio aspiring Data Analyst, please check it out!
 
 ## Business Understanding
