@@ -34,10 +34,35 @@ These skills are valuable for effectively analyzing and interpreting data to mak
 * SQL Data Type.
 * SQL Date Format.
 * SQL Window Function.
-Code
-Using The look ecommerce dataset.
+
+Dataset using The look ecommerce dataset.
+
 > [Query to show the data with date condition](https://console.cloud.google.com/bigquery?sq=1081994383074:5bfd58032c47442c9d013595703ebde7)
+
 > [Query to show the data with condition also using HAVING clause](https://console.cloud.google.com/bigquery?sq=1081994383074:6f6b702d426b4173bc554fc79bccf6d6)
+
+>[Query to show joing the data with aggregate and date function](https://console.cloud.google.com/bigquery?sq=1081994383074:0492728b9fa64257bc4664c429a1ebb5)
+
+>[Query to show joining the data with aggregate and CTE Function](https://console.cloud.google.com/bigquery?sq=1081994383074:5397937cee6a43fd97cf95ef422eeda7)
+
+>[Query to show joining the data with aggregate, CTE and Windows Function](https://console.cloud.google.com/bigquery?sq=1081994383074:6066e745a28540af8d8f79144b5f8ab7)
+
+## Python
+- Removing irrelevant values
+- Handling missing data
+- Removing duplicates
+- Handling Outlier
+- String manipulation
+- Combine & merge datasets
+- Data aggregation
+- Descriptive statistic
+- Analyzing using visualization
+- Cluster Analysis
+
+
+Code
+> [Python](https://colab.research.google.com/drive/1oBOrGKOgJJ4LpdoF1Aa0QLiqWP_IA-HB?usp=sharing}
+
 
 ## Visualization
 Looker Studio
