@@ -25,6 +25,20 @@ These skills are valuable for effectively analyzing and interpreting data to mak
 > Spreadsheet : 
 > Data RAW : [Link](https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing)
 
+## SQL
+
+* Standard Query Syntax.
+* SQL CTE Functions.
+* SQL Aggregate Functions.
+* SQL Joins.
+* SQL Data Type.
+* SQL Date Format.
+* SQL Window Function.
+Code
+Using The look ecommerce dataset.
+> [Query to show the data with date condition](https://console.cloud.google.com/bigquery?sq=1081994383074:5bfd58032c47442c9d013595703ebde7)
+> [Query to show the data with condition also using HAVING clause](https://console.cloud.google.com/bigquery?sq=1081994383074:6f6b702d426b4173bc554fc79bccf6d6)
+
 ## Visualization
 Looker Studio
 Create interactive executive dashboard in Samba E-commerce company 
