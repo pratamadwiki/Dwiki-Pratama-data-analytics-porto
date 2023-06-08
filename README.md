@@ -23,4 +23,13 @@ These skills are valuable for effectively analyzing and interpreting data to mak
 * A/B Testing
 
 > Spreadsheet : 
-[Link](https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing)
+> Data RAW : [Link](https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing)
+
+## Visualization
+Looker Studio
+Create interactive executive dashboard in Samba E-commerce company 
+> Looker Studio : [Link](https://lookerstudio.google.com/reporting/aaf1c903-3f95-4046-95f6-754408ecb851)
+
+Tableu
+Create interactive executive dashboard in Samba E-commerce company 
+>Tableu : [Link](https://public.tableau.com/views/Assigment_16800959385590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
