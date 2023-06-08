@@ -61,7 +61,7 @@ Dataset using The look ecommerce dataset.
 
 
 Code
-> [Python](https://colab.research.google.com/drive/1oBOrGKOgJJ4LpdoF1Aa0QLiqWP_IA-HB?usp=sharing}
+> [Python](https://colab.research.google.com/drive/1oBOrGKOgJJ4LpdoF1Aa0QLiqWP_IA-HB?usp=sharing)
 
 
 ## Visualization
