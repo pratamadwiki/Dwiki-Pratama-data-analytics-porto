@@ -86,3 +86,9 @@ Tableu
 Create interactive executive dashboard in Samba E-commerce company 
 
 >Tableu : [Link](https://public.tableau.com/views/Assigment_16800959385590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Contact
+
+Email : dwiki21.pratama@gmail.com
+
+Linkedin : [Link](https://www.linkedin.com/in/dwiki-pratama/)
