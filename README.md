@@ -87,6 +87,12 @@ Create interactive executive dashboard in Samba E-commerce company
 
 >Tableu : [Link](https://public.tableau.com/views/Assigment_16800959385590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+## Project Based Analytics
+
+Passengers Satisfaction on Wings Airline
+
+Deck : [Link](https://drive.google.com/file/d/1MIzQRmtVW6-F6wjMTiATJoOYRVl89KTy/view?usp=sharing)
+
 ## Contact
 
 Email : dwiki21.pratama@gmail.com
