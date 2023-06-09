@@ -93,7 +93,7 @@ Passengers Satisfaction on Wings Airline
 
 Deck : [Link](https://drive.google.com/file/d/1MIzQRmtVW6-F6wjMTiATJoOYRVl89KTy/view?usp=sharing)
 
-## Contact
+## Let's Connect
 
 Email : dwiki21.pratama@gmail.com
 
