@@ -1,7 +1,14 @@
-# About
-Hi i'm Dwiki Pratama also call me Dwiki. I possess more than 2 years of experience working in a logistics company, where I have honed my expertise in various aspects of the field. As an undergraduate with a specialization in logistics, I have gained a comprehensive understanding of the flow of money, goods, and information within the industry. my key strengths is my ability to work with flexibility and make sound decisions in a dynamic work environment. I have proven my ability to work effectively with cross-functional teams, concluding projects successfully and delivering comprehensive daily reports to managers. I am proficient in utilizing tools such as Excel/Spreadsheets, Power Point, SQL, and Tableau, enabling me to analyze data, create impactful visualizations, and present information in an easily understandable manner. 
+## About
+Hi i'm Dwiki Pratama also call me Dwiki. I possess more than 2 years of experience working in a **logistics company**, where I have honed my expertise in various aspects of the field. As an undergraduate with a specialization in logistics, I have gained a comprehensive understanding of the flow of **money**, **goods**, and **information** within the industry. my key strengths is my ability to **work with flexibility** and make sound **decisions** in a dynamic work environment. I have proven my ability to **work effectively with cross-functional teams**, concluding projects successfully and delivering comprehensive daily reports to managers. I am proficient in utilizing tools such as **Excel/Spreadsheets**, **Power Point**, **SQL**, and **Tableau**, enabling me to **analyze data**, create impactful **visualizations**, and present information in an easily understandable manner. 
 
 For more detail here i attached my resume (cv) : [Link CV](https://drive.google.com/file/d/1Hk5dqwfGtk8AiIOrFQO51FVw230BBkcQ/view?usp=sharing)
+
+## Let's Connect
+
+Email : dwiki21.pratama@gmail.com
+
+Linkedin : [Link](https://www.linkedin.com/in/dwiki-pratama/)
+
 
 ## Business Understanding
 These tools help identify causes, assign accountability, set clear goals, propose hypotheses, and establish relevant metrics for success. By using these tools, businesses can enhance problem-solving and make informed decisions.
@@ -92,9 +99,3 @@ Create interactive executive dashboard in Samba E-commerce company
 Passengers Satisfaction on Wings Airline
 
 Deck : [Link](https://drive.google.com/file/d/1MIzQRmtVW6-F6wjMTiATJoOYRVl89KTy/view?usp=sharing)
-
-## Let's Connect
-
-Email : dwiki21.pratama@gmail.com
-
-Linkedin : [Link](https://www.linkedin.com/in/dwiki-pratama/)
