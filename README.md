@@ -18,7 +18,9 @@ These tools help identify causes, assign accountability, set clear goals, propos
 * Hypothesis
 * Metrics Recommendation
 
-Example
+Example :
+
+Due the highly need employee to fill in this company, We have serious problem about attrition rate in 15 % every year. resulting in vacant positions that need to be replaced with new talent, in this situation i want to analyze and provide what happens and given recommendations to fix this problem
 
 > Deck : [Link](https://drive.google.com/file/d/1Bx9DD31kXMgkcWfT3JWc7fjURopLiuiP/view?usp=sharing)
 
@@ -33,9 +35,11 @@ These skills are valuable for effectively analyzing and interpreting data to mak
 * Gathering Insights
 * A/B Testing
 
-Example
+Example :
 
 Exploring Property Listings: A Comprehensive Analysis of ABC Company in Malaysia.
+
+ABC Company is a property listing company in Malaysia with a mission to offer a wide range of property choices to users. They specialize in property listings in Kuala Lumpur and other major cities in Malaysia. As a data analyst at ABC Company to provide valuable insights that can help the company maximize profits while ensuring a positive experience for users and tenants. The company generates revenue through a joint-profit sharing model, where the highest-priced properties contribute the highest percentage of revenue. However, a challenge arises when high-priced properties face difficulty in selling due to factors such as excessive room count or oversized room sizes.
 
 > Spreadsheet : [Link](https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing)
 
@@ -74,6 +78,10 @@ Dataset using The look ecommerce dataset.
 - Descriptive statistic
 - Analyzing using visualization
 - Cluster Analysis
+
+Example :
+
+The startup company specializes in offering a range of mutual fund products, including stocks mutual funds, bonds, money market funds, and mixed-investment funds. As the company's data analyst, I have analyzed the market trends and consumer behavior to provide recommendations for the upcoming month's marketing campaigns.
 
 Analyze what the best thematic campaign to the marketing team for the next month. with process cleaning the data, EDA, EDV and Customer Segmentation  
 
