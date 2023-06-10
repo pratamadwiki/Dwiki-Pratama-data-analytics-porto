@@ -91,6 +91,18 @@ Analyze what the best thematic campaign to the marketing team for the next month
 
 ## Visualization
 
+* Connect and combine/ join datasets
+
+* Data formatting
+
+* Visualization
+
+* Calculated field
+
+* Interactive Dashboard
+
+Example :
+
 Ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Commerce offers more than 15k products, and more than 50 product categories to the customers all over Brazil. There are a number of internal and external variables that support our business growth. In 2022 we want to utilize more data to support our growth. Mr. Ronaldinho (CEO), requested Mr Neymar (head of data) to create a company wide dashboard. Mr. Neymar trust you to create the dashboard
 
 > Looker Studio : [Link](https://lookerstudio.google.com/reporting/aaf1c903-3f95-4046-95f6-754408ecb851)
