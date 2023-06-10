@@ -90,20 +90,25 @@ Analyze what the best thematic campaign to the marketing team for the next month
 > Deck : [Link](https://docs.google.com/presentation/d/19Q18aXmEKLlABZ9qN1FAne5-gLi9usFfiDILtC9yhns/edit?usp=sharing)
 
 ## Visualization
-Looker Studio
 
-Create interactive executive dashboard in Samba E-commerce company 
+Ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Commerce offers more than 15k products, and more than 50 product categories to the customers all over Brazil. There are a number of internal and external variables that support our business growth. In 2022 we want to utilize more data to support our growth. Mr. Ronaldinho (CEO), requested Mr Neymar (head of data) to create a company wide dashboard. Mr. Neymar trust you to create the dashboard
 
 > Looker Studio : [Link](https://lookerstudio.google.com/reporting/aaf1c903-3f95-4046-95f6-754408ecb851)
 
-Tableu
+> Tableu : [Link](https://public.tableau.com/views/Assigment_16800959385590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Create interactive executive dashboard in Samba E-commerce company 
+> Deck : [Link](https://docs.google.com/presentation/d/11ExD2tfu0-BvfrFtPnWJ2HwyOqljSEx5iqponBzzHQM/edit?usp=sharing)
 
->Tableu : [Link](https://public.tableau.com/views/Assigment_16800959385590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+> Raw Data : [Link](https://docs.google.com/spreadsheets/d/1d5R1wBEN3lT5DHBiF-0MpOaSe3t8ZCMb4PVFZ4vHM6M/edit?usp=sharing)
 
 ## Project Based Analytics
 
-Passengers Satisfaction on Wings Airline
+Wings Airline is an airline business that has only been operating for 1 year, They have a plan to develop the business by collaborating with several types of travel agents and develop more features, Mr. Haris as the Director of  Services and Commercial of Wings Airline, asked the data analyst team to:
+
+* Make analysis of the airline's touch point factor performance to passengers during the business.
+
+* Identify the most significant touch point factor that needs to be improved in order to increase customer loyalty to Wings Airline by improving customer satisfaction by 25% within 12 months.
+
+* Develop a cluster analysis to know who is our target market, so the management could select the best additional feature for our targeted market.
 
 Deck : [Link](https://drive.google.com/file/d/1MIzQRmtVW6-F6wjMTiATJoOYRVl89KTy/view?usp=sharing)
