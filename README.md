@@ -77,7 +77,7 @@ Dataset using The look ecommerce dataset.
 
 Analyze what the best thematic campaign to the marketing team for the next month. with process cleaning the data, EDA, EDV and Customer Segmentation  
 
-> Code : [Python](https://colab.research.google.com/drive/1oBOrGKOgJJ4LpdoF1Aa0QLiqWP_IA-HB?usp=sharing)
+> Code : [Python]([W6W7W8_JAN23]_Dwiki_Pratama_Suherman.ipynb)
 
 > Deck : [Link](https://docs.google.com/presentation/d/19Q18aXmEKLlABZ9qN1FAne5-gLi9usFfiDILtC9yhns/edit?usp=sharing)
 
