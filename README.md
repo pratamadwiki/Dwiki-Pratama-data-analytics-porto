@@ -43,7 +43,6 @@ ABC Company is a property listing company in Malaysia with a mission to offer a 
 
 > 🔗 Spreadsheet : [Link](https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing)
 
-> 🔗 Deck: 
 
 ## SQL
 
