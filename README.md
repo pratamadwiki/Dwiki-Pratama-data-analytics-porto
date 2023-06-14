@@ -1,7 +1,47 @@
-## About 👱‍♂️
+# About 👱‍♂️
 Hi i'm Dwiki Pratama also call me Dwiki. I possess more than 2 years of experience working in a **logistics company**, where I have honed my expertise in various aspects of the field. As an undergraduate with a specialization in logistics, I have gained a comprehensive understanding of the flow of **money**, **goods**, and **information** within the industry. my key strengths is my ability to **work with flexibility** and make sound **decisions** in a dynamic work environment. I have proven my ability to **work effectively with cross-functional teams**, concluding projects successfully and delivering comprehensive daily reports to managers. I am proficient in utilizing tools such as **Excel/Spreadsheets**, **Power Point**, **SQL**, and **Tableau**, enabling me to **analyze data**, create impactful **visualizations**, and present information in an easily understandable manner. 
 
-For more detail here i attached my resume (cv) : [Link CV](https://drive.google.com/file/d/1Hk5dqwfGtk8AiIOrFQO51FVw230BBkcQ/view?usp=sharing)
+## Profesional Experience
+**Analyst Finance Operations in Shopee Xpress**
+
+12/2020 - present.
+As a Finance Operations Analyst at Hub, I am responsible for managing the financial operations of multiple hubs, including the First Mile, Middle Mile, and Last Mile divisions. In this role, I oversee the operations of 7 hubs, ensuring efficient and effective financial processes across the organization.
+ - Successfully manage cash transactions and reconciled COD payments as a cashier.
+ - Demonstrate proficiency in handling petty cash for payment of all utilities in a warehouse setting.
+ - Oversee the verification of supporting documents and processed payments for the expansion of the virtual hub.
+ - Responsible for managing cash for travel expenses, including first mile, middle mile, and last mile expenditures.
+ - Conduct in-depth analysis of pending COD payments to identify trends and optimize collection processes.
+ - Ensured timely daily deposits to the bank to maintain accurate financial records.
+ 
+**Warehouse Administration Staff in PT Sukanda Djaya Tbk**
+
+01/2020 – 04/2020
+ - Utilized data entry skills to input and track inbound and outbound goods at the warehouse.
+ - Generated reports on the condition, temperature, and proper disposal of goods, ensuring accurate documentation.
+ - Assisted in data input and document verification for shipping processes, ensuring data integrity and smooth operations.
+ - Actively participated in meetings as a note taker, capturing key discussions and action items for reference and follow-up.
+
+
+## Formal Education
+**Diploma of Logistics Administration in Politeknik Pos Indonesia (Poltekpos)**
+
+I possess a strong skill set in supply chain management, including core management abilities and expertise in sourcing, procurement, warehousing, inventory, transportation, and production. With a solid foundation in these areas, I am well-prepared to contribute to efficient and streamlined operations in any organization.
+
+2016-2019
+
+Grade 3.21/4.00
+
+## Course
+**Full Stack Data Analytics in Revou**
+
+I learned skill set in data analytics, including end-to-end data architecture, advanced statistics, SQL querying, Python programming, and effective data presentation. I am experienced in generating insights from large datasets, conducting A/B testing, and utilizing SMART experiments. With my expertise, I can effectively communicate data-driven insights and provide valuable recommendations.
+January 2023 - April 2023
+Grade 91.3/100
+
+🔗 [Certificate](https://certificates.revou.co/dwiki-pratama-suherman-certificate-completion-fsda21.pdf) 
+
+
+> For more detail here i attached my resume (cv) : [Link CV](https://drive.google.com/file/d/1Hk5dqwfGtk8AiIOrFQO51FVw230BBkcQ/view?usp=sharing)
 
 ## Let's Connect ☎️
 
@@ -10,7 +50,7 @@ For more detail here i attached my resume (cv) : [Link CV](https://drive.google.
 🔗 Linkedin : [Link](https://www.linkedin.com/in/dwiki-pratama/)
 
 
-## Business Understanding 
+# Business Understanding 
 These tools help identify causes, assign accountability, set clear goals, propose hypotheses, and establish relevant metrics for success. By using these tools, businesses can enhance problem-solving and make informed decisions.
 * Root Cause Analysis
 * DARCI (Define, Accountable, Responsible, Consulted and Informed)
@@ -24,7 +64,7 @@ Due the highly need employee to fill in this company, We have serious problem ab
 
 > 🔗 Deck : [Link](https://drive.google.com/file/d/1Bx9DD31kXMgkcWfT3JWc7fjURopLiuiP/view?usp=sharing)
 
-## Spreadsheet/ Excel Skill sets: 
+# Spreadsheet/ Excel Skill sets: 
 These skills are valuable for effectively analyzing and interpreting data to make informed decisions and uncover meaningful insights.
 * Data Cleaning
 * Query Table
@@ -44,7 +84,7 @@ ABC Company is a property listing company in Malaysia with a mission to offer a 
 > 🔗 Spreadsheet : [Link](https://docs.google.com/spreadsheets/d/18tgMCrt39v6ug8ps2C7HSAdFShRzMeCNtqTOmpneZcQ/edit?usp=sharing)
 
 
-## SQL
+# SQL
 
 * Standard Query Syntax.
 * SQL CTE Functions.
@@ -66,7 +106,7 @@ Dataset using The look ecommerce dataset.
 
 > 🔗 [Query to show joining the data with aggregate, CTE and Windows Function](https://console.cloud.google.com/bigquery?sq=1081994383074:6066e745a28540af8d8f79144b5f8ab7)
 
-## Python
+# Python
 - Removing irrelevant values
 - Handling missing data
 - Removing duplicates
@@ -88,7 +128,7 @@ Analyze what the best thematic campaign to the marketing team for the next month
 
 > 🔗 Deck : [Link](https://docs.google.com/presentation/d/19Q18aXmEKLlABZ9qN1FAne5-gLi9usFfiDILtC9yhns/edit?usp=sharing)
 
-## Visualization
+# Visualization
 
 * Connect and combine/ join datasets
 
@@ -112,7 +152,7 @@ Ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Com
 
 > 🔗 Raw Data : [Link](https://docs.google.com/spreadsheets/d/1d5R1wBEN3lT5DHBiF-0MpOaSe3t8ZCMb4PVFZ4vHM6M/edit?usp=sharing)
 
-## Project Based Analytics
+# Project Based Analytics
 
 Wings Airline is an airline business that has only been operating for 1 year, They have a plan to develop the business by collaborating with several types of travel agents and develop more features, Mr. Haris as the Director of  Services and Commercial of Wings Airline, asked the data analyst team to:
 
