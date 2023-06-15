@@ -29,14 +29,11 @@ I possess a strong skill set in supply chain management, including core manageme
 
 2016-2019
 
-Grade 3.21/4.00
-
 ## Course
 **Full Stack Data Analytics in Revou**
 
 I learned skill set in data analytics, including end-to-end data architecture, advanced statistics, SQL querying, Python programming, and effective data presentation. I am experienced in generating insights from large datasets, conducting A/B testing, and utilizing SMART experiments. With my expertise, I can effectively communicate data-driven insights and provide valuable recommendations.
 January 2023 - April 2023
-Grade 91.3/100
 
 🔗 [Certificate](https://certificates.revou.co/dwiki-pratama-suherman-certificate-completion-fsda21.pdf) 
 
