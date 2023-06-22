@@ -23,7 +23,7 @@ As a Finance Operations Analyst at Hub, I am responsible for managing the financ
 
 
 ## Formal Education
-**Diploma of Logistics Administration in Politeknik Pos Indonesia (Poltekpos)**
+**Diploma of Logistics Administration in Politeknik Pos Indonesia (Poltekpos now has changed to Logistics and Business International University)**
 
 I possess a strong skill set in supply chain management, including core management abilities and expertise in sourcing, procurement, warehousing, inventory, transportation, and production. With a solid foundation in these areas, I am well-prepared to contribute to efficient and streamlined operations in any organization.
 
