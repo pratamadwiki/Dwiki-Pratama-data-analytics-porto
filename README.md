@@ -151,7 +151,7 @@ Ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Com
 > 🔗 Raw Data : [Link](https://docs.google.com/spreadsheets/d/1d5R1wBEN3lT5DHBiF-0MpOaSe3t8ZCMb4PVFZ4vHM6M/edit?usp=sharing)
 
 # Project Based Analytics
-
+## Wings Airline
 Wings Airline is an airline business that has only been operating for 1 year, They have a plan to develop the business by collaborating with several types of travel agents and develop more features, Mr. Haris as the Director of  Services and Commercial of Wings Airline, asked the data analyst team to:
 
 * Make analysis of the airline's touch point factor performance to passengers during the business.
@@ -161,3 +161,13 @@ Wings Airline is an airline business that has only been operating for 1 year, Th
 * Develop a cluster analysis to know who is our target market, so the management could select the best additional feature for our targeted market.
 
 > 🔗 Deck : [Link](https://drive.google.com/file/d/1MIzQRmtVW6-F6wjMTiATJoOYRVl89KTy/view?usp=sharing)
+
+## QuickU Commerce
+
+QuickU is a growing e-commerce platform. This year (2023), QuickU Company seeks to change the way organisations view business performance by using more data to make decisions. Therefore, Data Analyst team need to do proper evaluation and advice regarding how data can be used to provide analysis on the decision-making process that occurs in QuickU Company.
+Their business direction in 2020 - 2022 is focusing more on acquiring quality users so that will increase the number of transactions and the revenue. With also effectively planning the stock so that we can reduce losses due to expired stock.
+
+> 🔗 Deck : [Link](https://drive.google.com/file/d/1_pt4h0gX0esq2Pg27rg7cILLuWhgvcdg/view?usp=sharing)
+
+> 🔗 Dashboard : [Link](https://lookerstudio.google.com/reporting/abb94b80-ecec-4ecc-aba9-ecc482aa32c9)
+
