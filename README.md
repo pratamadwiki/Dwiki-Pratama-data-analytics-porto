@@ -3,6 +3,7 @@ Hi i'm Dwiki Pratama also call me Dwiki. I possess more than three years of expe
 
 ## Profesional Experience
 **Procurement and Warehouse Controller in PT Axross Digital Indonesia - bipi (YC W22)**
+
 12/2023 - present.
 
 In the role of Warehouse Controller, I am tasked with overseeing all warehouse activities, including procurement, inventory management, and the delivery process.
@@ -15,6 +16,7 @@ In the role of Warehouse Controller, I am tasked with overseeing all warehouse a
 
 
 **Warehouse Spare Part Team Leader in PT Garudafood Putra Putri Jaya Tbk**
+
 09/2023 - 12/2023.
 
 As an inventory analyst with responsible to handle all activities in warehouse sparepart.
@@ -27,6 +29,7 @@ As an inventory analyst with responsible to handle all activities in warehouse s
 
 
 **Analyst Finance Operations in Shopee Xpress**
+
 12/2020 - 09.2023.
 
 As a Finance Operations Analyst at Hub, I am responsible for managing the financial operations of multiple hubs, including the First Mile, Middle Mile, and Last Mile divisions. In this role, I oversee the operations of 7 hubs, ensuring efficient and effective financial processes across the organization.
@@ -38,6 +41,7 @@ As a Finance Operations Analyst at Hub, I am responsible for managing the financ
  - Ensured timely daily deposits to the bank to maintain accurate financial records.
  
 **Warehouse Administration Staff in PT Sukanda Djaya Tbk**
+
 01/2020 – 04/2020
 
  - Utilized data entry skills to input and track inbound and outbound goods at the warehouse.
