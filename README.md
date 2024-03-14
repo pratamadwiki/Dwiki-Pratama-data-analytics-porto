@@ -1,10 +1,34 @@
 # About 👱‍♂️
-Hi i'm Dwiki Pratama also call me Dwiki. I possess more than 2 years of experience working in a **logistics company**, where I have honed my expertise in various aspects of the field. As an undergraduate with a specialization in logistics, I have gained a comprehensive understanding of the flow of **money**, **goods**, and **information** within the industry. my key strengths is my ability to **work with flexibility** and make sound **decisions** in a dynamic work environment. I have proven my ability to **work effectively with cross-functional teams**, concluding projects successfully and delivering comprehensive daily reports to managers. I am proficient in utilizing tools such as **Excel/Spreadsheets**, **Power Point**, **SQL**, and **Tableau**, enabling me to **analyze data**, create impactful **visualizations**, and present information in an easily understandable manner. 
+Hi i'm Dwiki Pratama also call me Dwiki. I possess more than three years of experience working in a **logistics company**, where I have honed my expertise in various aspects of the field. As an undergraduate with a specialization in logistics, I have gained a comprehensive understanding of the flow of **money**, **goods**, and **information** within the industry. my key strengths is my ability to **work with flexibility** and make sound **decisions** in a dynamic work environment. I have proven my ability to **work effectively with cross-functional teams**, concluding projects successfully and delivering comprehensive daily reports to managers. I am proficient in utilizing tools such as **Excel/Spreadsheets**, **Power Point**, **SQL**, and **Tableau**, enabling me to **analyze data**, create impactful **visualizations**, and present information in an easily understandable manner. 
 
 ## Profesional Experience
+**Procurement and Warehouse Controller in PT Axross Digital Indonesia - bipi (YC W22)**
+
+12/2023 - present.
+In the role of Warehouse Controller, I am tasked with overseeing all warehouse activities, including procurement, inventory management, and the delivery process.
+ - Responsible for overseeing and strategizing warehouse operations, incorporating ongoing enhancements.
+ - In charge of administrative tasks spanning from inbound to outbound processes.
+ - Ensuring the precision of stock records is maintained.
+ - Executing inventory and procurement tasks through the Just In Time approach.
+ - Engaging in communication with various divisions and vendors.
+ - Providing support to drivers during the delivery process.
+
+
+**Warehouse Spare Part Team Leader in PT Garudafood Putra Putri Jaya Tbk**
+
+09/2023 - 12/2023.
+As an inventory analyst with responsible to handle all activities in warehouse sparepart.
+ - Responsible for ensuring the accuracy of stock records.
+ - Accountable for maintaining the turnover ratio of spare parts.
+ - Tasked with maintaining optimal inventory stock levels.
+ - Demonstrate competence in working with maintaining and enhancing warehouse management processes.
+ - Oversee a team and act as a leader within the warehouse to foster teamwork and excellence.
+ - Engage in communication with multiple divisions as well as external vendors.
+
+
 **Analyst Finance Operations in Shopee Xpress**
 
-12/2020 - present.
+12/2020 - 09.2023.
 As a Finance Operations Analyst at Hub, I am responsible for managing the financial operations of multiple hubs, including the First Mile, Middle Mile, and Last Mile divisions. In this role, I oversee the operations of 7 hubs, ensuring efficient and effective financial processes across the organization.
  - Successfully manage cash transactions and reconciled COD payments as a cashier.
  - Demonstrate proficiency in handling petty cash for payment of all utilities in a warehouse setting.
